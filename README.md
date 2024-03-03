@@ -26,3 +26,4 @@
 | Challenge ID | Challenge Link | Solution Script |
 |----|----------------|-----------------|
 | m001  | [Write a function](https://www.hackerrank.com/challenges/write-a-function/problem) | [Solution](./medium/m001.py) |
+| m002  | [The Minion Game](https://www.hackerrank.com/challenges/the-minion-game/problem) | [Solution](./medium/m002.py) |
