@@ -23,7 +23,7 @@
 | e014  | [String Split and Join](https://www.hackerrank.com/challenges/python-string-split-and-join/problem) | [Solution](./easy/e014.py) |
 | e015  | [What's Your Name?](https://www.hackerrank.com/challenges/whats-your-name/problem) | [Solution](./easy/e015.py) |
 | e016  | [Mutations](https://www.hackerrank.com/challenges/python-mutations/problem) | [Solution](./easy/e016.py) |
-
+| e017  | [Find a string](https://www.hackerrank.com/challenges/find-a-string/problem) | [Solution](./easy/e017.py) |
 
 ### Challenge Category: Medium
 
