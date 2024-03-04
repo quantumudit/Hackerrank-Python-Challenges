@@ -21,6 +21,7 @@
 | e012  | [Tuples](https://www.hackerrank.com/challenges/python-tuples/problem) | [Solution](./easy/e012.py) |
 | e013  | [sWAP cASE](https://www.hackerrank.com/challenges/swap-case/problem) | [Solution](./easy/e013.py) |
 | e014  | [String Split and Join](https://www.hackerrank.com/challenges/python-string-split-and-join/problem) | [Solution](./easy/e014.py) |
+| e015  | [What's Your Name?](https://www.hackerrank.com/challenges/whats-your-name/problem) | [Solution](./easy/e015.py) |
 
 ### Challenge Category: Medium
 
