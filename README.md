@@ -24,6 +24,8 @@
 | e015  | [What's Your Name?](https://www.hackerrank.com/challenges/whats-your-name/problem) | [Solution](./easy/e015.py) |
 | e016  | [Mutations](https://www.hackerrank.com/challenges/python-mutations/problem) | [Solution](./easy/e016.py) |
 | e017  | [Find a string](https://www.hackerrank.com/challenges/find-a-string/problem) | [Solution](./easy/e017.py) |
+| e018  | [String Validators](https://www.hackerrank.com/challenges/string-validators/problem) | [Solution](./easy/e018.py) |
+
 
 ### Challenge Category: Medium
 
