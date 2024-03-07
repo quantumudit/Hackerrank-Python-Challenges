@@ -26,6 +26,7 @@
 | e017  | [Find a string](https://www.hackerrank.com/challenges/find-a-string/problem) | [Solution](./easy/e017.py) |
 | e018  | [String Validators](https://www.hackerrank.com/challenges/string-validators/problem) | [Solution](./easy/e018.py) |
 | e019  | [Text Wrap](https://www.hackerrank.com/challenges/text-wrap/problem) | [Solution](./easy/e019.py) |
+| e020  | [Designer Door Mat](https://www.hackerrank.com/challenges/designer-door-mat/problem) | [Solution](./easy/e020.py) |
 
 
 ### Challenge Category: Medium
