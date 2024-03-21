@@ -32,6 +32,8 @@
 | e023  | [Capitalize!](https://www.hackerrank.com/challenges/capitalize/problem) | [Solution](./easy/e023.py) |
 | e024  | [itertools.product()](https://www.hackerrank.com/challenges/itertools-product/problem) | [Solution](./easy/e024.py) |
 | e025  | [collections.Counter()](https://www.hackerrank.com/challenges/collections-counter/problem) | [Solution](./easy/e025.py) |
+| e026  | [itertools.permutations()](https://www.hackerrank.com/challenges/itertools-permutations/problem) | [Solution](./easy/e026.py) |
+
 
 
 
