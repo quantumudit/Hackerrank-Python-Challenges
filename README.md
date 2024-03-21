@@ -30,6 +30,8 @@
 | e021  | [String Formatting](https://www.hackerrank.com/challenges/python-string-formatting/problem) | [Solution](./easy/e021.py) |
 | e022  | [Alphabet Rangoli](https://www.hackerrank.com/challenges/alphabet-rangoli/problem) | [Solution](./easy/e022.py) |
 | e023  | [Capitalize!](https://www.hackerrank.com/challenges/capitalize/problem) | [Solution](./easy/e023.py) |
+| e024  | [itertools.product()](https://www.hackerrank.com/challenges/itertools-product/problem) | [Solution](./easy/e024.py) |
+
 
 
 
