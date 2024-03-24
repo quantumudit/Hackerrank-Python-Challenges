@@ -38,6 +38,8 @@
 | e029  | [DefaultDict Tutorial](https://www.hackerrank.com/challenges/defaultdict-tutorial/problem) | [Solution](./easy/e029.py) |
 | e030  | [Calendar Module](https://www.hackerrank.com/challenges/calendar-module/problem) | [Solution](./easy/e030.py) |
 | e031  | [Exceptions](https://www.hackerrank.com/challenges/exceptions/problem) | [Solution](./easy/e031.py) |
+| e032  | [Collections.namedtuple()](https://www.hackerrank.com/challenges/py-collections-namedtuple/problem) | [Solution](./easy/e032.py) |
+
 
 
 
