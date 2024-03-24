@@ -37,6 +37,8 @@
 | e028  | [Introduction to Sets](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem) | [Solution](./easy/e028.py) |
 | e029  | [DefaultDict Tutorial](https://www.hackerrank.com/challenges/defaultdict-tutorial/problem) | [Solution](./easy/e029.py) |
 | e030  | [Calendar Module](https://www.hackerrank.com/challenges/calendar-module/problem) | [Solution](./easy/e030.py) |
+| e031  | [Exceptions](https://www.hackerrank.com/challenges/exceptions/problem) | [Solution](./easy/e031.py) |
+
 
 
 ### Challenge Category: Medium
