@@ -34,13 +34,7 @@
 | e025  | [collections.Counter()](https://www.hackerrank.com/challenges/collections-counter/problem) | [Solution](./easy/e025.py) |
 | e026  | [itertools.permutations()](https://www.hackerrank.com/challenges/itertools-permutations/problem) | [Solution](./easy/e026.py) |
 | e027  | [Polar Coordinates](https://www.hackerrank.com/challenges/polar-coordinates/problem) | [Solution](./easy/e027.py) |
-
-
-
-
-
-
-
+| e028  | [Introduction to Sets](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem) | [Solution](./easy/e028.py) |
 
 
 ### Challenge Category: Medium
