@@ -35,6 +35,7 @@
 | e026  | [itertools.permutations()](https://www.hackerrank.com/challenges/itertools-permutations/problem) | [Solution](./easy/e026.py) |
 | e027  | [Polar Coordinates](https://www.hackerrank.com/challenges/polar-coordinates/problem) | [Solution](./easy/e027.py) |
 | e028  | [Introduction to Sets](https://www.hackerrank.com/challenges/py-introduction-to-sets/problem) | [Solution](./easy/e028.py) |
+| e029  | [DefaultDict Tutorial](https://www.hackerrank.com/challenges/defaultdict-tutorial/problem) | [Solution](./easy/e029.py) |
 
 
 ### Challenge Category: Medium
